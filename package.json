@@ -1,0 +1,19 @@
+{
+  "name": "daraja_apis",
+  "version": "1.0.0",
+  "description": "Learning daraja apis integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "m-pesa",
+    "safaricom",
+    "daraja",
+    "api",
+    "m-pesa",
+    "api"
+  ],
+  "author": "Alex Mwaniki",
+  "license": "ISC"
+}
